@@ -1,2 +1,16 @@
-# Registration_form
-A simple user registration form built with HTML5. It demonstrates modern input types, dropdowns, file upload, and built-in validation features such as required fields, email format, password length, and phone number patterns. Designed as a practice project for web development.
+# Registration Form (HTML5)
+
+This is a simple **User Registration Form** built using HTML5.  
+It demonstrates the use of different input types and built-in validation features.
+
+## 🚀 Features
+- Text input for **Name**
+- Email input with format validation
+- Password field with **minimum length**
+- Phone input with a **10-digit pattern**
+- Date picker for **Date of Birth**
+- Dropdown menu for **Gender selection**
+- File upload for **Profile Picture**
+- HTML5 **form validation** (required fields, format checks)
+
+## 📂 Project Structure
